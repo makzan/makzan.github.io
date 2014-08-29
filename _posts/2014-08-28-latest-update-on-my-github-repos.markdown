@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Latest update on my github repos
 layout: post
 ---
